@@ -16,3 +16,13 @@ an_data.pkl:
 
 - original: original dispersion spectrum of ambient noise data
 - processed: Spectrum after the removal of artifacts
+
+YG_bias.pkl:
+
+- calibrated_biases: Calibrated biases for active source data
+- synthetic_biases: Synthetic biases for active source data
+
+an_bias.pkl:
+
+- calibrated_biases: Calibrated biases for ambient noise data
+- synthetic_biases: Synthetic biases for ambient noise data
